@@ -32,3 +32,6 @@ table {
 ul {
   list-style-image: url('physics_icon.png');
 }
+a{
+  text-decoration:none;
+}
