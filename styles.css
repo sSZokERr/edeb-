@@ -35,3 +35,14 @@ ul {
 a{
   text-decoration:none;
 }
+#teller_kep{
+  float: right;
+  width: 260px;
+  margin: 20px;
+}
+span{
+  font-weight: 800;
+}
+span:hover{
+  color: red;
+}
